@@ -19,3 +19,7 @@ Contact: Connect with me through various channels. Whether you want to inquire a
 Interactive Navigation: The website offers smooth navigation, allowing you to seamlessly explore different sections and content. The dropdown menu for certifications enhances the user experience.
 
 Visually Stunning: The website is designed with aesthetics in mind. Clean and modern visuals, along with a harmonious color scheme, make for an appealing browsing experience.
+
+
+This is how it looks:
+![image](https://github.com/KshitizShukla/Personal_Portfolio/assets/104314175/bcadc360-0c7a-4d3f-ac84-e64f3d5f810c)
